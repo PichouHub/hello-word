@@ -1,3 +1,2 @@
 # hello-word
-Tester
-je suisunInformaticien 
+Test
